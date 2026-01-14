@@ -5,4 +5,3 @@ I’m a teenage programmer with a strong passion for game development and a grow
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariosGeorgiades&layout=compact)
