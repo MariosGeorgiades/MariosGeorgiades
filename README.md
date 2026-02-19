@@ -1,32 +1,28 @@
-
 # Hi, I'm Marios! 🚀
 
-I am a teenage programmer and aspiring Software Engineer focused on **Game Development**, **Competitive Programming**, and **System Architecture**. I'm currently building the foundation for a startup aimed at empowering my home country through technology.
+I am a teenage developer and aspiring Software Engineer focused on **Systems Architecture**, **Competitive Programming**, and **Sustainable Tech**. Currently, I'm bridging the gap between low-level performance and high-level AI to build solutions for my home country.
 
-### 🛠️ What I'm working on
-- 🌍 **[Project Name/Startup]:** Developing a platform to solve [specific problem] in my home country.
-- 🤖 **Home Lab:** Managing two local servers running Linux, hosting private LLMs and automated services.
-- 🏆 **Competitive Programming:** Training for high-level algorithms and upcoming hackathons (Meta Hacker Cup/Hackathons).
+### 🛠️ What I'm Working On
+- 🌍 **Maritime ML:** Developing an AI-driven platform to optimize routes and reduce carbon emissions for cargo ships.
+- 🤖 **Home Lab:** Architecting a private cloud on dual Linux servers, hosting local LLMs (Ollama) and automated microservices.
+- 🏆 **Competitive Programming:** Refining algorithms for the Meta Hacker Cup and upcoming international hackathons.
 
 ### 💻 Technical Toolkit
-* **Languages:** C#, C++, Python, SQL
-* **Systems & DevOps:** Linux (Ubuntu/Debian), Server Management, Docker
-* **Specialties:** OpenCV, DirectX, Game Engine Architecture, Local AI (Ollama/Local Inference)
-* **Tools:** Git, .NET, Bash Scripting
+* **Languages:** C++, Python, JavaScript, HTML/CSS
+* **Systems & DevOps:** Linux (Ubuntu/Debian), Server Management, Docker, Bash
+* **Specialties:** Game Engine Architecture, Local AI Inference, Machine Learning Operations (MLOps)
 
-### ⚡ Physical & Mental Discipline
-I believe the discipline in the gym translates directly to the discipline in code.
-* **Calisthenics & Weight Training:** Pushing physical limits daily.
-* **Long-Distance Running:** Training for endurance and mental clarity.
-* **Self-Education:** Learning OS internals and advanced mathematics outside of the classroom.
+### ⚡ Discipline & Performance
+I believe physical endurance fuels cognitive performance.
+* **Calisthenics & Weight Training:** Daily training focused on explosive power and strength.
+* **Long-Distance Running:** Building the mental stamina required for long-form engineering challenges.
+* **Continuous Learning:** Deep-diving into OS internals, kernel development, and advanced mathematics.
 
-### 🎯 Goals
-- [ ] Participate in the Facebook (Meta) Hackathon.
-- [ ] Secure an internship at a Big Tech company (Google/Microsoft).
-- [ ] Launch my startup's MVP.
+### 🎯 Strategic Goals
+- [ ] Compete in the **Meta Hacker Cup**.
+- [ ] Secure a Software Engineering internship at **Google** or **Microsoft**.
+- [ ] Launch the MVP for my Maritime ML startup.
+- [ ] Apply for the **Y Combinator** Winter/Summer batch.
 
 ---
-// "The best way to predict the future is to invent it."
-
-
-
+*"The best way to predict the future is to invent it."*
