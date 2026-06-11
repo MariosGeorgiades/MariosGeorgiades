@@ -20,7 +20,7 @@ I believe physical endurance fuels cognitive performance.
 ### 🎯 Strategic Goals
 - [ ] Compete in the **Meta Hacker Cup**.
 - [ ] Secure a Software Engineering internship at **Google** or **Microsoft**.
-- [ ] Launch the MVP for my Maritime ML startup.
+- [ ] WORK AT STRAVA 
 - [ ] Apply for the **Y Combinator** Winter/Summer batch.
 
 ---
