@@ -3,7 +3,6 @@
 I am a teenage developer and aspiring Software Engineer focused on **Systems Architecture**, **Competitive Programming**, and **Sustainable Tech**. Currently, I'm bridging the gap between low-level performance and high-level AI to build solutions for my home country.
 
 ### 🛠️ What I'm Working On
-- 🌍 **Maritime ML:** Developing an AI-driven platform to optimize routes and reduce carbon emissions for cargo ships- this is an idea in the making...
 - 🤖 **Home Lab:** Architecting a private cloud on dual Linux servers, hosting local LLMs (Ollama) and automated microservices.
 - 🏆 **Competitive Programming:** Refining algorithms for the Meta Hacker Cup and upcoming international hackathons.
 
